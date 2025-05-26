@@ -14,7 +14,7 @@ const PORT = process.env.PORT
 const __dirname = path.resolve();
 
 app.use(cors({
-  origin: "https://duk-iota.vercel.app",
+  origin: "http://localhost:5173",
   credentials: true,
 }));
 
