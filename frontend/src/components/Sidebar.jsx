@@ -130,7 +130,7 @@ export default function Sidebar() {
           <NavLinks />
         </nav>
         <div className="p-4 border-t border-base-300">
-          <Link to="/profile" className="flex items-center gap-3">
+          <Link to="/onboarding" className="flex items-center gap-3">
             <div className="avatar">
               <div className="w-10 rounded-full ring-2 ring-primary ring-offset-2 ring-offset-base-200">
                 <img src={authUser?.profilePicture} alt="User Avatar" />
