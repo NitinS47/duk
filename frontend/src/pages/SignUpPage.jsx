@@ -60,7 +60,7 @@ const SignUpPage = () => {
               <div>
                 <h2 className="text-xl font-semibold"> Create an Account</h2>
                 <p className="text-sm opacity-70">
-                  Netwroking made easy. Join us to connect with like-minded individuals.
+                  Networking made easy. Join us to connect with like-minded individuals.
                 </p>
               </div>
 
