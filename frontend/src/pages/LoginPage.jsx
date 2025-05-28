@@ -116,9 +116,9 @@ const LoginPage = () => {
             </div>
 
             <div className="text-center space-y-3 mt-6">
-              <h2 className="text-xl font-semibold">Connect with language partners worldwide</h2>
+              <h2 className="text-xl font-semibold">Connect with passionate people all over the world</h2>
               <p className="opacity-70">
-                Practice conversations, make friends, and improve your language skills together
+                Network, make friends, and improve your skills with like-minded individuals.
               </p>
             </div>
           </div>
